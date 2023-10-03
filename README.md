@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on coursework at BloomTech
 - 🌱 I’m currently learning JavaScript, HTML and CSS
 - 📫 How to reach me: BethFIngraham@gmail.com
-- ⚡ Fun fact: Coffee is it's own food group. Change my mind. 
+- ⚡ Fun fact: Coffee is its own food group. Change my mind. 
 <!--
 **BethanyIngraham/BethanyIngraham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
