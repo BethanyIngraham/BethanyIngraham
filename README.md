@@ -1,4 +1,3 @@
-![Big Sur](https://github.com/BethanyIngraham/BethanyIngraham/assets/134471306/449a6abd-8a71-4a50-b5c0-883ac8452896)
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bethany Ingraham
 ========================================================================================================================================
 
