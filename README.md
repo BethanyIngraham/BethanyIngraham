@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Software Engineer
 ----------------------------
 
-## Hi, I’m Bethany 👋
-
 I’m a Full Stack Software Engineer focused on building practical, user-friendly web applications using JavaScript, React, and Node.js. I enjoy breaking down complex problems and creating clean, maintainable solutions across both the frontend and backend.
 
 Before transitioning into software engineering, I worked in the medical field as a Unit Coordinator, where I developed strong attention to detail, organization, and cross-team collaboration—skills I now bring to software development.
@@ -20,10 +18,10 @@ Before transitioning into software engineering, I worked in the medical field as
 ### 🚀 Featured Projects
 A selection of projects demonstrating full stack development, state management, data persistence, authentication, and testing:
 
-- **React REST Client with Auth** [https://github.com/BethanyIngraham/web-sprint-challenge-advanced-web-applications] – Frontend application featuring protected routes and full CRUD interaction with REST APIs  
-- **Redux Toolkit State Management App** [https://github.com/BethanyIngraham/W_S10_Challenge] – React application showcasing predictable state management and asynchronous data fetching  
-- **REST API with Express & SQLite** [https://github.com/BethanyIngraham/web-sprint-challenge-adding-data-persistence] – Backend API implementing relational data modeling and persistent storage  
-- **Secure REST API with JWT & Testing** [https://github.com/BethanyIngraham/web-sprint-challenge-authentication-and-testing] – Authenticated API with role-protected endpoints and integration test coverage 
+- **[React REST Client with Auth] (https://github.com/BethanyIngraham/web-sprint-challenge-advanced-web-applications)** – Frontend application featuring protected routes and full CRUD interaction with REST APIs  
+- **[Redux Toolkit State Management App] (https://github.com/BethanyIngraham/W_S10_Challenge)** – React application showcasing predictable state management and asynchronous data fetching  
+- **[REST API with Express & SQLite] (https://github.com/BethanyIngraham/web-sprint-challenge-adding-data-persistence)** – Backend API implementing relational data modeling and persistent storage  
+- **[Secure REST API with JWT & Testing] (https://github.com/BethanyIngraham/web-sprint-challenge-authentication-and-testing)** – Authenticated API with role-protected endpoints and integration test coverage 
 
 ### 📚 Currently Learning
 - Data Structures & Algorithms (JavaScript)
