@@ -4,12 +4,36 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Software Engineer
 ----------------------------
 
-🔭 I’m currently working on coursework at the Bloom Institute of Technology
+## Hi, I’m Bethany 👋
 
-* 🌍  I'm based in Florida
-* ✉️  You can contact me at [BethFIngraham@gmail.com](mailto:BethFIngraham@gmail.com)
-* 🧠  I'm learning HTML, CSS, Javascript, React
-* ⚡  Fun fact: Coffee is its own food group. Change my mind.
+I’m a Full Stack Software Engineer focused on building practical, user-friendly web applications using JavaScript, React, and Node.js. I enjoy breaking down complex problems and creating clean, maintainable solutions across both the frontend and backend.
+
+Before transitioning into software engineering, I worked in the medical field as a Unit Coordinator, where I developed strong attention to detail, organization, and cross-team collaboration—skills I now bring to software development.
+
+### 🛠 Tech Stack
+- **Languages:** JavaScript, HTML, CSS, SQL  
+- **Frontend:** React, Redux, Context API  
+- **Backend:** Node.js, Express  
+- **Databases:** SQLite  
+- **Testing & Tools:** Jest, Git, GitHub, Postman, Knex, JWT
+
+### 🚀 Featured Projects
+A selection of projects demonstrating full stack development, state management, data persistence, authentication, and testing:
+
+- **React REST Client with Auth** [https://github.com/BethanyIngraham/web-sprint-challenge-advanced-web-applications] – Frontend application featuring protected routes and full CRUD interaction with REST APIs  
+- **Redux Toolkit State Management App** [https://github.com/BethanyIngraham/W_S10_Challenge] – React application showcasing predictable state management and asynchronous data fetching  
+- **REST API with Express & SQLite** [https://github.com/BethanyIngraham/web-sprint-challenge-adding-data-persistence] – Backend API implementing relational data modeling and persistent storage  
+- **Secure REST API with JWT & Testing** [https://github.com/BethanyIngraham/web-sprint-challenge-authentication-and-testing] – Authenticated API with role-protected endpoints and integration test coverage 
+
+### 📚 Currently Learning
+- Data Structures & Algorithms (JavaScript)
+- Backend testing and authentication
+- Building scalable REST APIs
+
+### 📫 Let’s Connect
+- **LinkedIn:** See my LinkedIn profile below
+
+
 
 ### Skills
 
